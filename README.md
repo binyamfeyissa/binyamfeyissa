@@ -103,7 +103,7 @@ Specialized in **React, Next.js, React Native, TypeScript**, and modern front-en
 ## 🚀 Key Projects
 
 ### **FynIQ — CRA Integrated Tax Platform**
-🔗 https://binyam-feyissa.vercel.app/portfolio/fyniq
+🔗 https://binyamfeyissa.dev/portfolio/fyniq
 
 - Full front-end rebuild using React, Next.js, Tailwind, Redux, React Query
 - Direct integration with **Canadian Revenue Agency systems**
@@ -113,7 +113,7 @@ Specialized in **React, Next.js, React Native, TypeScript**, and modern front-en
 ---
 
 ### **Sunshine — Compound Management System**
-🔗 https://binyam-feyissa.vercel.app/portfolio/sunshineweb
+🔗 https://binyamfeyissa.dev/portfolio/sunshineweb
 
 - Led web & mobile architecture (React, React Native)
 - Real-time incident reporting, service requests, announcements
