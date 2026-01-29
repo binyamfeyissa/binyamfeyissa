@@ -8,7 +8,7 @@
 <a href="mailto:binyam.feyissa.gudina@gmail.com">Email</a> ·
 <a href="https://www.linkedin.com/in/binyam-feyissa">LinkedIn</a> ·
 <a href="https://github.com/binyam-feyissa">GitHub</a> ·
-<a href="https://binyam-feyissa.vercel.app/">Portfolio</a>
+<a href="https://binyamfeyissa.dev/">Portfolio</a>
 </p>
 
 </div>
@@ -80,6 +80,7 @@ Specialized in **React, Next.js, React Native, TypeScript**, and modern front-en
 
 ### **Pluto Technologies — Full-Stack Developer**  
 📍 Addis Ababa, Ethiopia · 🗓 Nov 2022 – Aug 2023  
+🔗 https://plutotechnologies.org
 
 - Built full-stack platforms using React, Django, PostgreSQL, Firebase
 - Led a team of 5 developers delivering **5 production systems in under a year**
@@ -102,7 +103,7 @@ Specialized in **React, Next.js, React Native, TypeScript**, and modern front-en
 ## 🚀 Key Projects
 
 ### **FynIQ — CRA Integrated Tax Platform**
-🔗 https://binyam-feyissa.vercel.app/portfolio/fyniq.html
+🔗 https://binyam-feyissa.vercel.app/portfolio/fyniq
 
 - Full front-end rebuild using React, Next.js, Tailwind, Redux, React Query
 - Direct integration with **Canadian Revenue Agency systems**
@@ -112,7 +113,7 @@ Specialized in **React, Next.js, React Native, TypeScript**, and modern front-en
 ---
 
 ### **Sunshine — Compound Management System**
-🔗 https://binyam-feyissa.vercel.app/portfolio/sunshineweb.html
+🔗 https://binyam-feyissa.vercel.app/portfolio/sunshineweb
 
 - Led web & mobile architecture (React, React Native)
 - Real-time incident reporting, service requests, announcements
