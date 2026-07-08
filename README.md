@@ -4,7 +4,7 @@
 <h3>Senior Front-End / Full-Stack Software Engineer</h3>
 
 <p>
-🇪🇹 Addis Ababa, Ethiopia · 🇨🇦 Canada Experience<br/>
+🇪🇹 Addis Ababa, Ethiopia (Open to Remote) · +251 967 933 981<br/>
 <a href="mailto:binyam.feyissa.gudina@gmail.com">Email</a> ·
 <a href="https://www.linkedin.com/in/binyam-feyissa">LinkedIn</a> ·
 <a href="https://github.com/binyam-feyissa">GitHub</a> ·
@@ -17,115 +17,106 @@
 
 ## 👋 Summary
 
-Accomplished Software Engineer with **6+ years of experience** delivering secure, scalable web and mobile systems across **15+ real-world projects**, including **enterprise-grade platforms officially integrated with the Canadian Revenue Agency (CRA)**.
+Senior Full-Stack Engineer and Technical Lead with **5+ years of experience** architecting and shipping production-grade web and mobile applications end to end. Leads cross-functional teams of engineers, designers, and product managers, mentors developers, and sets code-review and architectural standards.
 
-Specialized in **React, Next.js, React Native, TypeScript**, and modern front-end architecture, with strong backend proficiency in **Node.js, Python, and PostgreSQL**. Proven track record of leading front-end rebuilds, replacing costly third-party systems with **government-approved in-house solutions**, and scaling products to **thousands of users**.
+Expert across the modern stack — **React, Next.js, TypeScript, Node.js, and Python/Django**, with SQL databases (PostgreSQL, MySQL), Redis caching, REST and GraphQL APIs, Docker, AWS, and CI/CD pipelines. Proven record of building scalable systems serving thousands of users, aligning technical solutions with business goals, and delivering measurable gains in performance, reliability, and delivery speed.
 
 ---
 
 ## 🧠 Technical Skills
 
 **Languages**
-- JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
+- JavaScript (ES6+), TypeScript, Python, SQL, HTML5, CSS3
 
-**Frameworks & Libraries**
-- React.js, Next.js, React Native, Expo  
-- Redux Toolkit, Zustand, React Query, React Hook Form  
-- Tailwind CSS, Bootstrap, GraphQL, Express.js
+**Frontend**
+- React.js, Next.js (SSR, API routes), React Native, Redux Toolkit, React Query, Tailwind CSS
 
-**Backend & Databases**
-- Node.js, Python (Django)  
-- PostgreSQL, MongoDB, Firebase, Redis
+**Backend & APIs**
+- Node.js, Express.js, Python, Django, REST APIs, GraphQL, microservices, authentication
 
-**DevOps & Tools**
-- Git, GitHub Actions, Docker  
-- AWS, Vercel, Firebase  
-- Jest, Cypress, React Testing Library, Lighthouse  
-- Figma, VS Code
+**Databases & Caching**
+- PostgreSQL, MySQL, SQL schema design & query optimization, Redis (caching, sessions, real-time), MongoDB
+
+**DevOps & Cloud**
+- Docker, AWS, Git, GitHub Actions, CI/CD pipelines
+
+**Testing & Quality**
+- Jest, React Testing Library, Cypress, Jasmine, code review, Lighthouse, Core Web Vitals
+
+**Leadership**
+- Technical leadership, team mentoring, cross-functional collaboration, architecture & system design, Agile/Scrum, stakeholder management
 
 ---
 
 ## 🏆 Awards
 
-**🏅 Web Guru Awards — Guru Of The Day (GOTD)**  
-📅 May 28, 2025  
+**🏅 Web Guru Awards — Guru Of The Day (GOTD)**
+📅 May 2025
 🔗 https://www.webguruawards.com/sites/binyam-s-personal-portfolio
 
 ---
 
 ## 💼 Work Experience
 
-### **FynIQ — Front-End Developer**  
-📍 Toronto, Canada · 🗓 Jun 2025 – Present  
+### **FynIQ — Senior Full-Stack Engineer**
+📍 Toronto, Canada (Remote) · 🗓 06/2025 – 04/2026
 🔗 https://www.fyniq.ca/
 
-- Rebuilt the entire front-end for a **CRA-certified virtual tax filing platform**
-- Replaced paid third-party CloudTax service with an **in-house government-approved system**
-- Designed multi-step tax workflows, dashboards, document uploads, and secure authentication
-- Automated CI/CD pipelines, reducing release time and production errors
-- Improved performance, accessibility, and onboarding flow across web & mobile
+- Architected and rebuilt a **CRA-certified virtual tax-filing platform** end to end using Next.js, React, TypeScript, and Tailwind CSS, replacing a paid third-party service with a government-approved in-house system and reducing operational costs
+- Implemented Redis caching and session management alongside SQL data models and Next.js API routes powering authentication, document upload, and multi-step filing workflows, improving responsiveness under load
+- Set code-review and architectural standards and partnered with backend engineers and stakeholders from discovery through rollout, supported by automated CI/CD pipelines that reduced release time
 
 ---
 
-### **Tera — Front-End Developer**  
-📍 Addis Ababa, Ethiopia · 🗓 Aug 2023 – Jun 2025  
-🔗 https://tera.et/team/
+### **Tera — Front-End & Mobile Technical Lead**
+📍 Addis Ababa, Ethiopia · 🗓 08/2023 – 06/2025
+🔗 https://tera.et/team
 
-- Directed front-end and mobile architecture across ERP platforms
-- Led development of **Sunshine CMS & Bono**, serving **5,000+ users** across 3 compounds
-- Reduced **90% of manual workflows** through digital automation
-- Implemented CI/CD pipelines with Jest, Cypress, and GitHub Actions
+- Led front-end and mobile architecture across ERP platforms as technical lead, mentoring engineers and establishing reusable component libraries, SQL-backed data models, and CI-driven testing for cross-team consistency
+- Owned delivery for **Bono and Sunshine CMS** — platforms serving **5,000+ residents** across 3 compounds — replacing 90% of manual workflows with real-time digital services, supported by end-to-end automated testing and CI/CD pipelines (Jest, Cypress, GitHub Actions)
 
 ---
 
-### **Pluto Technologies — Full-Stack Developer**  
-📍 Addis Ababa, Ethiopia · 🗓 Nov 2022 – Aug 2023  
-🔗 https://plutotechnologies.org
+### **Pluto Technologies — Full-Stack Developer & Team Lead**
+📍 Addis Ababa, Ethiopia · 🗓 11/2022 – 08/2023
+🔗 https://www.linkedin.com/company/plutotechnologiesorg/posts
 
-- Built full-stack platforms using React, Django, PostgreSQL, Firebase
-- Led a team of 5 developers delivering **5 production systems in under a year**
-- Integrated secure payment systems (Telebirr, CBE Birr)
-- Improved performance and scalability, boosting transaction capacity by 25%
+- Led and mentored a cross-functional team of 5 engineers to scope and launch five full-stack platforms in under a year using React, Django, and PostgreSQL, while writing production code as a player-coach
+- Architected platforms including Sergegna and Gebeya with secure payment integration (Telebirr, CBE Birr), designing PostgreSQL schemas, relationships, and optimized queries that boosted transaction capacity by 25%
 
 ---
 
-### **INSA — Front-End Engineer**  
-📍 Addis Ababa, Ethiopia · 🗓 Aug 2021 – Nov 2022  
+### **INSA — Front-End Engineer**
+📍 Addis Ababa, Ethiopia · 🗓 08/2021 – 11/2022
 🔗 https://www.insa.gov.et/web/en
 
-- Built secure internal dashboards for national security analytics
-- Designed role-based access systems and real-time data visualization
-- Refactored legacy systems into modular React architecture
-- Reduced production bugs by **40%**
+- Built internal information systems and interactive dashboards for national security analytics using React.js, Django, and PostgreSQL with clearance-based access control
+- Refactored legacy front-end codebases into modular React architecture, increasing developer velocity and reducing production bugs by 40%
 
 ---
 
 ## 🚀 Key Projects
 
-### **FynIQ — CRA Integrated Tax Platform**
+### **FynIQ — In-House CRA Tax-Filing Platform**
+*Next.js, Redis, SQL, Tailwind*
 🔗 https://binyamfeyissa.dev/portfolio/fyniq
 
-- Full front-end rebuild using React, Next.js, Tailwind, Redux, React Query
-- Direct integration with **Canadian Revenue Agency systems**
-- Secure tax filing, document uploads, dashboards, and workflows
-- Enabled full ownership of platform & reduced operational costs
+Full-stack Next.js app with Redis caching and SQL data models, integrated with the Canadian tax bureau, replacing the paid CloudTax service.
 
 ---
 
 ### **Sunshine — Compound Management System**
+*React.js, React Native, Tailwind*
 🔗 https://binyamfeyissa.dev/portfolio/sunshineweb
 
-- Led web & mobile architecture (React, React Native)
-- Real-time incident reporting, service requests, announcements
-- Scaled to **5,000+ active users**
-- Improved service response efficiency by **60%**
+Management system scaled to 5,000+ active users with real-time modules and optimized large data views, boosting service response efficiency by 60%.
 
 ---
 
 ## 🎓 Education
 
-**Addis Ababa Science and Technology University (AASTU)**  
-🎓 Bachelor’s Degree in Software Engineering  
+**Addis Ababa Science and Technology University (AASTU)**
+🎓 Bachelor of Science in Software Engineering
 ⭐ GPA: 3.7
 
 ---
@@ -139,6 +130,6 @@ Specialized in **React, Next.js, React Native, TypeScript**, and modern front-en
 
 <div align="center">
 
-### ⭐ Let’s build scalable, high-impact products together.
+### ⭐ Let's build scalable, high-impact products together.
 
 </div>
