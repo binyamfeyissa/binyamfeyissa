@@ -7,7 +7,7 @@
 🇪🇹 Addis Ababa, Ethiopia (Open to Remote) · +251 967 933 981<br/>
 <a href="mailto:binyam.feyissa.gudina@gmail.com">Email</a> ·
 <a href="https://www.linkedin.com/in/binyam-feyissa">LinkedIn</a> ·
-<a href="https://github.com/binyam-feyissa">GitHub</a> ·
+<a href="https://github.com/binyamfeyissa">GitHub</a> ·
 <a href="https://binyamfeyissa.dev/">Portfolio</a>
 </p>
 
